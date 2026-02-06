@@ -2,7 +2,7 @@
 
 A lightweight, 100% client-side web application to convert photos of signatures into clean, transparent, and professional PNGs. No data is ever uploaded to a server—all processing happens right in your browser.
 
-**[Link to Live App](https://simple-signature-a9rd8.ondigitalocean.app/)**
+**[Link to Live App](https://signature.evilsna.me/)**
 
 ---
 
@@ -32,7 +32,7 @@ A lightweight, 100% client-side web application to convert photos of signatures 
 
 ## 🚀 Usage
 
-1.  Open the [Static Webpage](https://simple-signature-a9rd8.ondigitalocean.app/).
+1.  Open the [Static Webpage](https://signature.evilsna.me/).
 2.  Upload a JPG or PNG of your signature.
 3.  (Optional) Check **"Remove Shadows"** if your photo has dark corners or uneven light.
 4.  Adjust **Sensitivity** to clear the background and **Boldness** to make the ink solid.
